@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DriverClass
 {
-    class CheckingAccount
+    class CheckingAccount : BankAccount
     {
     }
 }
